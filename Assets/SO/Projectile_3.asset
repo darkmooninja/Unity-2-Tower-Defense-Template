@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e660df073f1a42b08b77000df81efbc, type: 3}
-  m_Name: Projectile
+  m_Name: Projectile_3
   m_EditorClassIdentifier: 
-  damage: 0
-  speed: 0
-  size: 0
+  damage: 50
+  speed: 10
+  size: 3
   color: {r: 0, g: 0, b: 0, a: 1}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: a487bdf3aa7fa46c0b34cf6e823fc82c, type: 3}
