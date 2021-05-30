@@ -12,9 +12,9 @@ public class PlayerBaseScript : MonoBehaviour
     [SerializeField]
     private int currentTower = 0;
 
-    private float resourseCoolDown = 10f;
+    private float resourseCoolDown = 5f;
     private float timerCoolDown;
-    private int resourcesIncrease = 1;
+    private int resourcesIncrease = 10;
 
     public TextMeshProUGUI playerHealthText;
     public TextMeshProUGUI playerResourcesText;
